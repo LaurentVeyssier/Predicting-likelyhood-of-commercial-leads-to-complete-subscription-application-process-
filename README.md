@@ -18,7 +18,7 @@ We are not focusing on the credit rating part of the screening process but on th
 
 We assume that the users going through application screens provides information till the e-signing final step. This information comprises both financial details and personnal details.
 
-The dataset available for the project is made of XXX records corresponding to application process which were finailzed or not. This is stipulated by the binary response variable  'e-signed' attached to each record.
+The dataset available for the project is made of nearly 18,000 records corresponding to application process which were finailzed or not. This is stipulated by the binary response variable  'e-signed' attached to each record.
 
 In addition to the 'e-sign' label, each record has 20 variables covering personnal details (age, address, home details, seniority at work...), financial details (monthly income, pay schedule, bank account details, loan amount requested...) and multiple risk ratings including external ones coming from the third-party marketplace. 
 
