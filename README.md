@@ -24,8 +24,10 @@ In addition to the 'e-sign' label, each record has 20 variables covering personn
 
 # Notebook steps
 - Dataset Exploration and cleaning
-- Modelling
+- Feature engineering
 - Training and best hyper parameters search
 - Evaluation
 
 # Results
+
+using random forest, the predictive model performance remains poor overall with precision of 65% (65% of all predicted e-signature are actually e-signature) and recall of 70% (70% of e-signature are correctly predicted). Consequently, F1 score cumulates at 67% only. While the approach developped in the project remains valid, the available information does not allow to predict with high accuracy.
